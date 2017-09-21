@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    background-image: url("http://cdn.wallpapersafari.com/28/97/mkTH3B.jpg");
+    background-size: cover;    
+}
+
+.title {
+    color: black;
+    font-family: Times New Roman;
+    text-align: center;
+    padding: 20;
+    background: rgba(243, 243, 243 ,0.8)
+}
+
+.hulu {
+    font-size: 25;
+    color: black;
+    font-family: arial black;
+    position: fixed;
+    left: 15%;
+    background: rgba(243, 243, 243 ,0.5);
+    height: 1036;
+    width: 500;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.img1 {
+    width: 430px;
+    position: fixed;
+    top: 21%;
+    left: 17%; 
+}
+
+.spotify {
+    font-size: 25;
+    color: black;
+    font-family: arial black;
+    position: fixed;
+    left: 64%;
+    background: rgba(243, 243, 243 ,0.5);
+    height: 500;
+    width: 500px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.img2 {
+    width: 650px;
+    position: fixed;
+    top: 19%;
+    left: 57%;
+}
+
+.hbo {
+    font-size: 25;
+    color: black;
+    font-family: arial black;
+    position: fixed;
+    left: 16%;
+    top: 50%
+}
+
+.img3 {
+    width: 250px;
+    position: fixed;
+    left: 24.1%;
+    top: 58%;
+}
+
+.uplay {
+    font-size: 25;
+    color: black;
+    font-family: arial black;
+    position: fixed;
+    top: 50%;
+    left: 64.5%
+}
+
+.img4 {
+    width: 340px;
+    position: fixed;
+    left: 68%;
+    top: 65.2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
